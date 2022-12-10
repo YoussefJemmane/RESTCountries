@@ -4,8 +4,8 @@
 
 
 import './App.css';
-import Dice from './components/Dice';
-import Personne from './components/Personne/Personne';
+
+import Personne from './components/Countries/Country';
 
 function App() {
   return (
